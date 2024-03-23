@@ -21,6 +21,8 @@ The MP3 Converter Microservice follows a microservice architecture, which consis
 - **Database Service**: Stores data in both MongoDB (NoSQL) and MySQL (relational) databases.
 - **API Gateway**: Provides a RESTful API for interacting with the microservice.
 
+![Screenshot from 2024-03-24 03-08-08](https://github.com/rishirishhh/MP3-Converter/assets/148757583/93d60ea7-bb48-4fde-bc66-2e7255873cb3)
+
 ## Technologies Used
 
 - **Python**: Programming language used for implementing the microservice.
