@@ -22,7 +22,7 @@ def upload(f,fs,channel,access):
         ),
     )
 
-    except:
+    except Exception as err:
         fs.delete(fid)
         return "internal server error", 500
 
