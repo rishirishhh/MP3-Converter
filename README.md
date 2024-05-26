@@ -59,7 +59,7 @@ kubbectl apply -f gateway/manifests
 
 Please configuration into `/etc/hosts` file like this
 
-![hosts](./images/hosts.png)
+![image](https://github.com/rishirishhh/MP3-Converter/assets/148757583/24b7c774-173c-4d4b-b3cb-98819adfe13b)
 
 - Get token by email and password.
 
@@ -86,7 +86,7 @@ curl -X POST -F 'file=@./test.mkv' -H 'Authorization: Bearer your_token_here' ht
 ```bash
 k9s
 ```
-![k9s](./images/k9s.png)
+![image](https://github.com/rishirishhh/MP3-Converter/assets/148757583/5965e1ac-b46c-4234-baeb-ddf9578b968f)
 
 - Check you email and try api get mp3 file.
 
